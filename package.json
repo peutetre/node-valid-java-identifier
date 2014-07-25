@@ -1,0 +1,27 @@
+{
+  "name": "valid-java-identifier",
+  "version": "0.0.1",
+  "description": "check if a given string is a valid java identifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peutetre/node-valid-java-identifier.git"
+  },
+  "keywords": [
+    "java",
+    "identifier",
+    "valid"
+  ],
+  "author": "Paul Panserrieu <paul@42loops.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peutetre/node-valid-java-identifier/issues"
+  },
+  "homepage": "https://github.com/peutetre/node-valid-java-identifier",
+  "devDependencies": {
+    "mocha": "^1.21.0"
+  }
+}
